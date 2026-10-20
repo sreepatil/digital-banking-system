@@ -1,0 +1,1 @@
+INSERT INTO _MODELS (is_active, created_at, description, name, provider, version) VALUES (true, CURRENT_TIMESTAMP, 'XYZ', 'MODEL-A', 'TCS', 'v1');
